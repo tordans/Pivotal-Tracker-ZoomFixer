@@ -8,7 +8,8 @@ Pivotal Tracker (http://pivotaltracker.com) is an awesome tool for managing back
 ## Installing:
 
 1. Download the *.user.js file
-2. Drag-and-drop it onto your chrome window
+2. Open your extention view (Window -> Extentions)
+2. Drag-and-drop the JS on th Extentions-View in your chrome window
 3. Go use http://pivotaltracker.com/
 4. Zoom in (Ctrl++) a few times
 5. Enjoy
